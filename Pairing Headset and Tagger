@@ -1,0 +1,9 @@
+Create a serial connection with Putty, see instruction first
+1. Run a QUERY command on both the Gun and the Headset first and copied all the info into a text document, just to have all the original settings.
+
+2. Run the SETUP command on either the Gun or Headset (which ever one of them you want to change the ID for.
+The ID used for the paring is the one written on the side of the headset/gun or what you can also read out from the QUERY output. They do not appear to be locked down in any other way.
+
+3. It asks to enter a PIN, enter the one you want. If you want to pair an old Headset to an existing Gun, where the headset might be missing, just do this on the headset and enter in the existing PIN from the Gun.
+
+I tried just changing one digit in the PIN on a Gun after which the pairing with the existing headset stopped. I then changed the PIN on a different headset to match the newly set and the two paired up fine.
